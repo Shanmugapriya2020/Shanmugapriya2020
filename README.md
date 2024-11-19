@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanmugapriya2020
-- 👀 I’m interested to take up new oppurtunities in the field of Data Science
-- 🌱 I have done post graduate progam in Data Scinence and Businees Analytics
+- 👀 I’m a passionate Data Scientist and enjoys working with the data churning and modelling.
+- 🌱 I have done post graduate progam in Data Scinence and Business Analytics
 - 📫 Reach me at shanpriya33@gmail.com
 
 <!---
